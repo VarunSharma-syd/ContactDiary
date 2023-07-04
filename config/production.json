@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://varun123:varun123@cluster0.lqs5vui.mongodb.net/",
+    "jwtSecret":"secretdiary"
+}
